@@ -99,9 +99,7 @@ adityaaggarwal12@github
 | ![Aditya's 𝚐𝚒𝚝𝚑𝚞𝚋 𝚐𝚛𝚊𝚙𝚑](https://activity-graph.herokuapp.com/graph?username=adityaaggarwal12&theme=react-dark&hide_border=true&area=true) |
 | ![Aditya's github stats](https://github-readme-stats.vercel.app/api?username=adityaaggarwal12&show_icons=true&theme=algolia)              | 
 | ![Aditya's GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=adityaaggarwal12&theme=algolia)                    | 
-    
-
-|                                                                                                
+                                                                                          
 
 
 
