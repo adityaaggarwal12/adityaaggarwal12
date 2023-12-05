@@ -4,25 +4,21 @@ Hi, I'm Aditya Aggarwal!
 <br/>
 
 <!-- Typing SVG by DenverCoder1 - https://github.com/DenverCoder1/readme-typing-svg -->
-<p align="center">
+<!-- <p align="center">
   <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?lines=Computer+Science+Student;Back+End+Web+Developer;Freelancer;Blockchain%20Enthusiast&center=true&width=550&height=45"></a>
-</p>
-
-
-<hr>
+</p> 
+<hr>-->
 
 ```
-adityaaggarwal12@github
+adityaaggarwal12@github , 0xAditya1@twitter , adityaaggarwal12339@gmail.com
 -------------------------
-💻 I am a self taught Full Stack End Web Developer and Blockchain Developer
-📚 I have a Bachelors in Computer Science from the SRM University,Chennai,India
+💻 Backend Engineer and Blockchain Developer
+📚 Bachelors in Computer Science from the SRM University,Chennai,India
 📝 I have a strong interest in Blockchain
-🔭 Working on Blockchain
-🌱 Learning about Cloud
-🌟 Main languages: JavaScript,Python
+🔭 Currently reading - Docker Up & Running By  Sean P. Kane, Karl Matthias
 ```
 <hr>
-
+<!-- 
 ## GitHub Stats
 
 
@@ -32,6 +28,6 @@ adityaaggarwal12@github
 | ![Aditya's github stats](https://github-readme-stats.vercel.app/api?username=adityaaggarwal12&show_icons=true&theme=algolia)              | 
 | ![Aditya's GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=adityaaggarwal12&theme=algolia)                    | 
                                                                                           
-
+-->
 
 
