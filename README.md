@@ -13,8 +13,6 @@ Hi, I'm Aditya Aggarwal!
 adityaaggarwal12@github , 0xAditya1@twitter , adityaaggarwal12339@gmail.com
 -------------------------
 💻 Backend Engineer and Blockchain Developer
-📚 Bachelors in Computer Science from the SRM University,Chennai,India
-📝 I have a strong interest in Blockchain
 🔭 Currently reading - Docker Up & Running By  Sean P. Kane, Karl Matthias
 ```
 <hr>
