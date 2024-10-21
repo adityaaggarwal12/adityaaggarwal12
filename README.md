@@ -10,7 +10,7 @@ Hi, I'm Aditya Aggarwal!
 <hr>-->
 
 ```
-adityaaggarwal12@github , 0xAditya1@twitter , adityaaggarwal12339@gmail.com
+adityaaggarwal12@github, adityaaggarwal12339@gmail.com
 -------------------------
 💻 Backend Engineer and Blockchain Developer
 🔭 Currently reading - Docker Up & Running By  Sean P. Kane, Karl Matthias
